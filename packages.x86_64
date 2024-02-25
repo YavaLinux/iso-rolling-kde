@@ -1,3 +1,4 @@
+# vanilla arch
 alsa-utils
 amd-ucode
 arch-install-scripts
@@ -32,11 +33,10 @@ f2fs-tools
 fatresize
 foot-terminfo
 fsarchiver
-gnu-netcat
 gpart
 gpm
 gptfdisk
-grml-zsh-config
+# grml-zsh-config
 grub
 hdparm
 hyperv
@@ -68,7 +68,7 @@ memtest86+-efi
 mkinitcpio
 mkinitcpio-archiso
 mkinitcpio-nfs-utils
-modemmanager
+# modemmanager
 mtools
 nano
 nbd
@@ -118,8 +118,8 @@ udftools
 usb_modeswitch
 usbmuxd
 usbutils
-vim
-virtualbox-guest-utils-nox
+# vim
+# virtualbox-guest-utils-nox
 vpnc
 wezterm-terminfo
 wireless-regdb
@@ -129,3 +129,208 @@ wvdial
 xfsprogs
 xl2tpd
 zsh
+
+# core
+bash
+dialog
+dnsutils
+linux-headers
+base-devel
+aic94xx-firmware
+i2c-tools
+libffi
+dkms
+expect
+gnupg
+logrotate
+ntp
+upd72020x-fw
+# wd719x-firmware
+wget
+curl
+rsync
+libyaml
+yaml-cpp
+pipewire
+pipewire-alsa
+pipewire-audio
+pipewire-jack
+pipewire-pulse
+pipewire-v4l2
+pipewire-x11-bell
+pipewire-zeroconf
+oh-my-zsh-git
+yavalinux-system-git
+yavalinux-repo/calamares-git
+ainyava-calamares-git
+ainyava-app-configs-git
+
+# graphics
+xorg-server
+xorg-apps
+xorg-xinit
+xf86-input-elographics
+xf86-input-libinput
+mesa
+
+# audio
+alsa-firmware
+alsa-lib
+alsa-topology-conf
+alsa-ucm-conf
+alsa-plugins
+alsa-utils
+gst-libav
+gst-plugins-bad
+gst-plugins-base
+gst-plugins-good
+gst-plugins-ugly
+gstreamer
+libdvdcss
+pulseaudio
+pulseaudio-alsa
+
+# bluetooth
+blueberry
+bluez
+bluez-libs
+bluez-utils
+pulseaudio-bluetooth
+
+# network
+avahi
+nss-mdns
+mobile-broadband-provider-info
+modemmanager
+networkmanager
+network-manager-applet
+networkmanager-openconnect
+networkmanager-openvpn
+networkmanager-pptp
+networkmanager-vpnc
+networkmanager-qt5
+openresolv
+rtl8821cu-morrownr-dkms-git
+
+# printer
+cups
+cups-filters
+cups-pdf
+ghostscript
+gsfonts
+gutenprint
+system-config-printer
+
+# text
+noto-fonts
+awesome-terminal-fonts
+ttf-dejavu
+ttf-droid
+ttf-hack
+ttf-inconsolata
+ttf-roboto
+ttf-roboto-mono
+libreoffice-fresh
+
+
+# desktop
+sddm
+plasma
+plasma-wayland-session
+plasma5-applets-window-buttons
+plasma5-applets-window-title
+breeze
+breeze-icons
+picom
+papirus-icon-theme
+ark
+kvantum
+kate
+dolphin
+dolphin-plugins
+kwrite
+konsole
+kpipewire
+kde-gtk-config
+okular
+partitionmanager
+latte-dock-git
+ainyava-kde-git
+ainyava-plasma-configs-git
+
+# cli-tools
+dconf-editor
+openbsd-netcat
+fortune-mod
+lolcat
+jq
+thefuck
+starship
+feh
+imagemagick
+p7zip
+unzip
+unrar
+zsh-completions
+zsh-syntax-highlighting
+tree
+w3m
+
+
+# development
+git
+gcc
+cmake
+go
+rust
+python
+python-pip
+nodejs
+npm
+ruby
+jre-openjdk
+tmux
+nginx
+neovim
+neovide
+visual-studio-code-bin
+sublime-text-4
+
+# devtools
+yakuake
+librdkafka
+docker
+docker-buildx
+docker-compose
+kubectl
+kafka
+dbeaver
+android-sdk-platform-tools
+android-tools
+
+# dev-packages
+python-pyotp
+python-pexpect
+python-numpy
+python-pandas
+python-pyperclip
+ipython
+jupyterlab
+
+# internet
+nekoray
+sing-geoip
+sing-geosite
+openvpn
+telegram-desktop
+discord
+google-chrome
+anydesk-bin
+firefox
+
+# multimedia
+obs-studio
+openrgb
+mpv
+smplayer
+vlc
