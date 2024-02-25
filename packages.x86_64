@@ -51,7 +51,7 @@ less
 lftp
 libfido2
 libusb-compat
-linux
+linux-zen
 linux-atm
 linux-firmware
 linux-firmware-marvell
@@ -134,7 +134,7 @@ zsh
 bash
 dialog
 dnsutils
-linux-headers
+linux-zen-headers
 base-devel
 aic94xx-firmware
 i2c-tools
