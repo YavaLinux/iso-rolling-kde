@@ -236,6 +236,7 @@ libreoffice-fresh
 # desktop
 sddm
 plasma
+systemd-kcm
 plasma-wayland-session
 plasma5-applets-window-buttons
 plasma5-applets-window-title
