@@ -257,6 +257,8 @@ okular
 partitionmanager
 latte-dock-git
 ainyava-kde-git
+kwin-effects-yet-another-magic-lamp-git
+kwin-decoration-sierra-breeze-enhanced-git
 ainyava-plasma-configs-git
 
 # cli-tools
@@ -273,6 +275,7 @@ p7zip
 unzip
 unrar
 zsh-completions
+zsh-autosuggestions
 zsh-syntax-highlighting
 tree
 w3m
@@ -308,6 +311,8 @@ kafka
 dbeaver
 android-sdk-platform-tools
 android-tools
+pyenv
+nvm
 
 # dev-packages
 python-pyotp
