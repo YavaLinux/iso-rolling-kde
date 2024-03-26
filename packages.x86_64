@@ -278,6 +278,7 @@ zsh-autosuggestions
 zsh-syntax-highlighting
 tree
 w3m
+mlocate
 
 
 # development
