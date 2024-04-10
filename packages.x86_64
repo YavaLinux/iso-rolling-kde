@@ -131,7 +131,7 @@ xl2tpd
 zsh
 
 # core
-bash
+# bash
 dialog
 dnsutils
 linux-lts-headers
@@ -230,7 +230,8 @@ ttf-hack
 ttf-inconsolata
 ttf-roboto
 ttf-roboto-mono
-libreoffice-fresh
+# libreoffice-fresh
+noto-fonts-emoji
 
 
 # desktop
@@ -239,7 +240,6 @@ plasma
 plasma6-applets-window-title
 breeze
 breeze-icons
-picom
 papirus-icon-theme
 ark
 kvantum
@@ -253,6 +253,7 @@ kde-gtk-config
 okular
 partitionmanager
 ainyava-kde-git
+spectacle
 # latte-dock-git
 # kwin-effects-yet-another-magic-lamp-git
 # kwin-decoration-sierra-breeze-enhanced-git
@@ -264,8 +265,8 @@ openbsd-netcat
 fortune-mod
 lolcat
 jq
+yq
 thefuck
-starship
 feh
 imagemagick
 p7zip
@@ -283,58 +284,61 @@ mlocate
 git
 gcc
 cmake
-go
-rust
-python
-python-pip
-nodejs
-npm
-ruby
-jre-openjdk
 tmux
-nginx
 neovim
-neovide
-visual-studio-code-bin
-sublime-text-4
+# go
+# rust
+# python
+# python-pip
+# nodejs
+# npm
+# ruby
+# jre-openjdk
+# visual-studio-code-bin
+# sublime-text-4
 
 # devtools
 yakuake
-librdkafka
-docker
-docker-buildx
-docker-compose
-kubectl
-kafka
-dbeaver
-android-sdk-platform-tools
+# librdkafka
+# docker
+# docker-buildx
+# docker-compose
+# kubectl
+# kafka
+# dbeaver
+# android-sdk-platform-tools
 android-tools
 pyenv
 nvm
 
 # dev-packages
-python-pyotp
-python-pexpect
-python-numpy
-python-pandas
-python-pyperclip
-ipython
-jupyterlab
+# python-pyotp
+# python-pexpect
+# python-numpy
+# python-pandas
+# python-pyperclip
+# ipython
+# jupyterlab
 
 # internet
-nekoray
-sing-geoip
-sing-geosite
+# nekoray
+# sing-geoip
+# sing-geosite
 openvpn
-telegram-desktop
-discord
+# telegram-desktop
+# discord
 google-chrome
-anydesk-bin
+# anydesk-bin
 firefox
 
 # multimedia
-obs-studio
-openrgb
+# obs-studio
 mpv
 smplayer
-vlc
+# vlc
+
+# gaming
+# stream
+# openrgb
+# lutris
+# proton
