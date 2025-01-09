@@ -121,7 +121,7 @@ usbutils
 # vim
 # virtualbox-guest-utils-nox
 vpnc
-wezterm-terminfo
+# wezterm-terminfo
 wireless-regdb
 wireless_tools
 wpa_supplicant
@@ -136,7 +136,7 @@ dialog
 dnsutils
 linux-lts-headers
 base-devel
-aic94xx-firmware
+# aic94xx-firmware
 i2c-tools
 libffi
 dkms
@@ -144,7 +144,7 @@ expect
 gnupg
 logrotate
 ntp
-upd72020x-fw
+# upd72020x-fw
 # wd719x-firmware
 wget
 curl
@@ -155,11 +155,11 @@ pipewire
 pipewire-alsa
 pipewire-audio
 pipewire-jack
-pipewire-pulse
+# pipewire-pulse
 pipewire-v4l2
 pipewire-x11-bell
 pipewire-zeroconf
-oh-my-zsh-git
+# oh-my-zsh-git
 yavalinux-system-git
 alci-calamares
 ainyava-calamares-git
@@ -209,8 +209,8 @@ networkmanager-openvpn
 networkmanager-pptp
 networkmanager-vpnc
 networkmanager-qt5
-openresolv
-rtl8821cu-morrownr-dkms-git
+# openresolv
+# rtl8821cu-morrownr-dkms-git
 
 # printer
 cups
@@ -237,7 +237,7 @@ noto-fonts-emoji
 # desktop
 sddm
 plasma
-plasma6-applets-window-title
+# plasma6-applets-window-title
 breeze
 breeze-icons
 papirus-icon-theme
@@ -307,9 +307,9 @@ yakuake
 # kafka
 # dbeaver
 # android-sdk-platform-tools
-android-tools
-pyenv
-nvm
+# android-tools
+# pyenv
+# nvm
 
 # dev-packages
 # python-pyotp
@@ -327,7 +327,7 @@ nvm
 openvpn
 # telegram-desktop
 # discord
-google-chrome
+# google-chrome
 # anydesk-bin
 firefox
 
