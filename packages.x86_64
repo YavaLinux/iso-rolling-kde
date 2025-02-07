@@ -118,7 +118,7 @@ udftools
 usb_modeswitch
 usbmuxd
 usbutils
-# vim
+vim
 # virtualbox-guest-utils-nox
 vpnc
 # wezterm-terminfo
@@ -172,6 +172,9 @@ xorg-xinit
 xf86-input-elographics
 xf86-input-libinput
 mesa
+nvidia-lts
+nvidia-utils
+
 
 # audio
 alsa-firmware
@@ -230,7 +233,7 @@ ttf-hack
 ttf-inconsolata
 ttf-roboto
 ttf-roboto-mono
-# libreoffice-fresh
+libreoffice-fresh
 noto-fonts-emoji
 
 
@@ -254,9 +257,12 @@ okular
 partitionmanager
 ainyava-kde-git
 spectacle
+wezterm
+alacritty
 # latte-dock-git
 # kwin-effects-yet-another-magic-lamp-git
-# kwin-decoration-sierra-breeze-enhanced-git
+kwin-decoration-sierra-breeze-enhanced-git
+kwin-scripts-krohnkite-git
 ainyava-kde-configs-git
 
 # cli-tools
@@ -286,26 +292,26 @@ gcc
 cmake
 tmux
 neovim
-# go
-# rust
-# python
-# python-pip
+go
+rust
+python
+python-pip
 # nodejs
 # npm
 # ruby
-# jre-openjdk
-# visual-studio-code-bin
-# sublime-text-4
+jre-openjdk
+visual-studio-code-bin
+sublime-text-4
 
 # devtools
 yakuake
-# librdkafka
-# docker
-# docker-buildx
-# docker-compose
-# kubectl
+librdkafka
+docker
+docker-buildx
+docker-compose
+kubectl
 # kafka
-# dbeaver
+dbeaver
 # android-sdk-platform-tools
 # android-tools
 # pyenv
@@ -321,24 +327,24 @@ yakuake
 # jupyterlab
 
 # internet
-# nekoray
-# sing-geoip
-# sing-geosite
+nekoray
+sing-geoip
+sing-geosite
 openvpn
 # telegram-desktop
 # discord
-# google-chrome
+google-chrome
 # anydesk-bin
 firefox
 
 # multimedia
-# obs-studio
+obs-studio
 mpv
 smplayer
 # vlc
 
 # gaming
 # stream
-# openrgb
+openrgb
 # lutris
 # proton
