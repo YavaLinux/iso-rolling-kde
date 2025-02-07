@@ -270,6 +270,7 @@ dconf-editor
 openbsd-netcat
 fortune-mod
 lolcat
+cowsay
 jq
 yq
 thefuck
@@ -296,8 +297,9 @@ go
 rust
 python
 python-pip
-# nodejs
-# npm
+nodejs
+npm
+oh-my-zsh-git
 # ruby
 jre-openjdk
 visual-studio-code-bin
@@ -314,8 +316,8 @@ kubectl
 dbeaver
 # android-sdk-platform-tools
 # android-tools
-# pyenv
-# nvm
+pyenv
+nvm
 
 # dev-packages
 # python-pyotp
