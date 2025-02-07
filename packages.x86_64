@@ -93,7 +93,7 @@ pptpclient
 pv
 qemu-guest-agent
 refind
-reflector
+# reflector
 reiserfsprogs
 rp-pppoe
 rsync
