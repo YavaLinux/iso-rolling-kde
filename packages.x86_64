@@ -261,8 +261,8 @@ wezterm
 alacritty
 # latte-dock-git
 # kwin-effects-yet-another-magic-lamp-git
-kwin-decoration-sierra-breeze-enhanced-git
-kwin-scripts-krohnkite-git
+# kwin-decoration-sierra-breeze-enhanced-git
+# kwin-scripts-krohnkite-git
 ainyava-kde-configs-git
 
 # cli-tools
@@ -329,9 +329,9 @@ nvm
 # jupyterlab
 
 # internet
-sing-geoip
-sing-geosite
-nekoray
+# sing-geoip
+# sing-geosite
+# nekoray
 openvpn
 # telegram-desktop
 # discord
