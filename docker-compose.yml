@@ -1,0 +1,14 @@
+name: yavalinux
+services:
+  build_iso:
+    network_mode: host
+    privileged: true
+    build: .
+    # entrypoint: /yavalinux/build.sh
+    entrypoint: sleep infinity
+    deploy:
+      mode: global-job
+    volumes:
+      - ./:/yavalinux
+      - ../repo:/yavalinux/repo
+      - ./cache:/var/cache/pacman/pkg

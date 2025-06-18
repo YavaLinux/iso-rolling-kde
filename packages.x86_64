@@ -94,7 +94,7 @@ pv
 qemu-guest-agent
 refind
 # reflector
-reiserfsprogs
+# reiserfsprogs
 rp-pppoe
 rsync
 rxvt-unicode-terminfo
@@ -299,7 +299,6 @@ python
 python-pip
 nodejs
 npm
-oh-my-zsh-git
 # ruby
 jre-openjdk
 visual-studio-code-bin

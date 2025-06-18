@@ -1,0 +1,2 @@
+Server = https://mirror.arvancloud.ir/archlinux/$repo/os/$arch
+# Server = https://archive.archlinux.org/repos/2025/06/01/$repo/os/$arch
